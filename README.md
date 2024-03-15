@@ -39,7 +39,7 @@ class Employee (models.Model):
  
 class EmployeeAdmin(admin.ModelAdmin):
     list_display=('eid','name','salary','age','email')
-...
+```
 
 
 ## OUTPUT
