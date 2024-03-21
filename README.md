@@ -2,7 +2,11 @@
 ## Date: 15.03.2024
 
 ## AIM
-To develop a Django application to store and retrieve data from a Book database using Object Relational Mapping(ORM).
+To develop a Django application to store and retrieve data from a Employee database using Object Relational Mapping(ORM).
+
+## Entity Relationship Diagram
+
+![Screenshot 2024-03-21 142803](https://github.com/R01ty/ORM/assets/142526219/95969447-81f2-430b-a6f0-9a38dfff078a)
 
 ## DESIGN STEPS
 
@@ -16,7 +20,7 @@ Create a new app in Django project
 Enter the code for admin.py and models.py
 
 ### STEP 4:
-Execute Django admin and create details for 10 books
+Execute Django admin and create details for 10 Employee
 
 ## PROGRAM
 ```
